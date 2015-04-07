@@ -11,12 +11,14 @@ Adds the Pre and Code buttons to the TinyMCE toolbar with customizable shortcuts
 
 == Description ==
 
-The Pre button toggles the preformatted style on the selected text or the current line (applies <code><pre></code> tag to blocks).
+The Pre button toggles the preformatted style on the selected text or the current line (applies <code><pre></code> tag to blocks).  
 The Code button toggles the code style on the selected text or the current word (applies <code><code></code> tag to inline elements).
 
 The default shortcuts for the buttons are:
-Ctrl+Q - Pre
-Ctrl+D - Code
+<ol>
+  <li>Ctrl+Q - Pre</li>
+  <li>Ctrl+D - Code</li>
+</ol>
 
 In the admin Settings submenu it's possible to change these shortcuts. Type any shortcut combination in the fields with the Ctrl key included. Some combinations may conflict with the default editor or browser shortcuts. So check them on your instance. 
 
