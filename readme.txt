@@ -11,8 +11,8 @@ Adds the Pre and Code buttons to the TinyMCE toolbar with customizable shortcuts
 
 == Description ==
 
-The **Pre** button toggles the preformatted style on the selected text or the current line (applies <code><pre></code> tag to blocks).  
-The **Code** button toggles the code style on the selected text or the current word (applies <code><code></code> tag to inline elements).
+The **Pre** button toggles the preformatted style on the selected text or the current line (applies `<pre>` tag to blocks).  
+The **Code** button toggles the code style on the selected text or the current word (applies ``` tag to inline elements).
 
 The default shortcuts for the buttons are:
 
@@ -26,15 +26,15 @@ So check them on your instance.
 
 You may use these types of shortcuts:  
 
-- <code>Ctrl+B, .., Z (except AXCV)</code>
-- <code>Ctrl+0, .., 9</code>
-- <code>Ctrl+[symbols] (-=`[];'\/,.)</code>
-- <code>Ctrl+F1, .., F12</code>
-- <code>Ctrl+Pad0, .., Pad9</code>
-- <code>Ctrl+Pad/, Pad*, Pad+, Pad.</code>
-- <code>Ctrl+Shift+...</code>
-- <code>Ctrl+Alt+...</code>
-- <code>Ctrl+Shift+Alt+...</code>
+- `Ctrl+B, .., Z (except AXCV)`
+- `Ctrl+0, .., 9`
+- ``Ctrl+[symbols] (-=`[];'\/,.)``
+- `Ctrl+F1, .., F12`
+- `Ctrl+Pad0, .., Pad9`
+- `Ctrl+Pad/, Pad*, Pad+, Pad.`
+- `Ctrl+Shift+...`
+- `Ctrl+Alt+...`
+- `Ctrl+Shift+Alt+...`
 
 
 == Installation ==
