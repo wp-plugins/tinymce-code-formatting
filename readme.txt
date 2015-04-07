@@ -15,21 +15,24 @@ The Pre button toggles the preformatted style on the selected text or the curren
 The Code button toggles the code style on the selected text or the current word (applies <code><code></code> tag to inline elements).
 
 The default shortcuts for the buttons are:
-<ol>
+<ul>
   <li>Ctrl+Q - Pre</li>
   <li>Ctrl+D - Code</li>
-</ol>
+</ul>
 
-In the admin Settings submenu it's possible to change these shortcuts. Type any shortcut combination in the fields with the Ctrl key included. Some combinations may conflict with the default editor or browser shortcuts. So check them on your instance. 
+In the admin Settings submenu it's possible to change these shortcuts.  
+Type any shortcut combination in the fields with the Ctrl key included.  
+Some combinations may conflict with the default editor or browser shortcuts.  
+So check them on your instance.  
 
-You may use these types of shortcuts:
+You may use these types of shortcuts:  
+
 - Ctrl+B, .., Z (except AXCV)
 - Ctrl+0, .., 9
 - Ctrl+[symbols] (-=`[];'\/,.)
 - Ctrl+F1
 - Ctrl+Pad0, .., Pad9
 - Ctrl+Pad/, Pad*, Pad+, Pad.
-
 - Ctrl+Shift+...
 - Ctrl+Alt+...
 - Ctrl+Shift+Alt...
