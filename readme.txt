@@ -20,7 +20,9 @@ The default shortcuts for the buttons are:
 - Ctrl+D - Code
 
 In the admin **Settings submenu** it's possible to **change** these shortcuts.  
-Type any shortcut combination in the fields with the **Ctrl** key included.  
+Press a key combination in the text fields with the **Ctrl** key included and the text will be filled automatically.  
+Or you can type it manually.  
+
 Some combinations may *conflict* with the *default* editor or browser shortcuts.  
 So check them on your instance.  
 
