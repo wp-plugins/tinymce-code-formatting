@@ -28,7 +28,7 @@ You may use these types of shortcuts:
 
 - `Ctrl+B, .., Z (except AXCV)`
 - `Ctrl+0, .., 9`
-- `Ctrl+[symbols] (-=`[];'\/,.)`
+- ``Ctrl+[symbols] (-=`[];'\/,.)``
 - `Ctrl+F1, .., F12`
 - `Ctrl+Pad0, .., Pad9`
 - `Ctrl+Pad/, Pad*, Pad+, Pad.`
